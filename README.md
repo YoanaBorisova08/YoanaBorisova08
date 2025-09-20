@@ -2,7 +2,6 @@
 
 ## 🎯 About me
 - 🎓 Currently learning Python at SoftUni
-- 📍   Based in Bulgaria
 
 ---
 
