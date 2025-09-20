@@ -1,3 +1,5 @@
+<h1 align="center"> Hi, I'm Yoana 👋
+
 ## 🎯 About me
 - 🎓 Currently learning Python at SoftUni
 - 📍   Based in Bulgaria
@@ -25,13 +27,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoanaBorisova08&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBorisova08&layout=compact&theme=radical)  
-
----
-
-## 📂 Projects I'm Working On
-- 🔗 [Project 1](https://github.com/USERNAME/project1) – кратко описание  
-- 🔗 [Project 2](https://github.com/USERNAME/project2) – кратко описание  
-- 🔗 [Project 3](https://github.com/USERNAME/project3) – кратко описание  
 
 ---
 
