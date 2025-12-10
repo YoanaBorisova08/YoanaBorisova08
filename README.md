@@ -25,17 +25,8 @@
 
 ## 📊 GitHub statistics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoanaBorisova&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoanaBorisova&show_icons=true&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBorisova&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YoanaBorisova)
-
-flowchart TD
-    A[Client / Frontend] --> B[API Gateway]
-    B --> C[Authentication Service]
-    B --> D[Main Backend Service]
-    D --> E[(Database)]
-    D --> F[External API Integrations]
-    C --> E
 
 ---
 
