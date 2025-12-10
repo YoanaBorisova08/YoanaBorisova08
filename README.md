@@ -25,8 +25,7 @@
 
 ## 📊 GitHub statistics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoanaBorisova&show_icons=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBorisova&layout=compact)
+![Languages](https://img.shields.io/badge/Top%20Languages-JS%20%7C%20Python%20%7C%20SQL-yellow)
 
 ---
 
