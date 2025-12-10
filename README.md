@@ -2,6 +2,7 @@
 
 ## 🎯 About me
 - 🎓 Currently learning Python at SoftUni
+- 🤝 Open to: Internships, Junior roles
 
 ---
 
@@ -24,8 +25,17 @@
 
 ## 📊 GitHub statistics 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoanaBorisova08&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBorisova08&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoanaBorisova&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBorisova&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YoanaBorisova)
+
+flowchart TD
+    A[Client / Frontend] --> B[API Gateway]
+    B --> C[Authentication Service]
+    B --> D[Main Backend Service]
+    D --> E[(Database)]
+    D --> F[External API Integrations]
+    C --> E
 
 ---
 
