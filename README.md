@@ -25,12 +25,6 @@
 
 ---
 
-## 📊 GitHub statistics 
-
-![Languages](https://img.shields.io/badge/Top%20Languages-JS%20%7C%20Python%20%7C%20SQL-yellow)
-
----
-
 ## 📫 Connect With Me
 - Email: yoanasb08@gmail.com
 
