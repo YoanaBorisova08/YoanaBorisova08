@@ -27,7 +27,7 @@
 ---
 
 ## Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBorisova08&layout=compact&theme=tokyonight$v=1)
+![Metrics](https://metrics.lecoq.io/YoanaBorisova08?template=classic&languages=1&languages.limit=8)
 
 ---
 
