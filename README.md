@@ -26,10 +26,6 @@
 
 ---
 
-## Statistics
-![Metrics](https://metrics.lecoq.io/YoanaBorisova08?template=classic&languages=1&languages.limit=8)
-
----
 
 ## 📫 Connect With Me
 - Email: yoanasb08@gmail.com
