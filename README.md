@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Yoana 👋
 
 ## 🎯 About me
-- 🎓 Currently learning Python at SoftUni
+- 🎓 Currently working with Python and PHP
 - 🤝 Open to: Internships, Junior roles
 
 ---
@@ -23,6 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
 </p>
+
+---
+
+## Statistics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBorisova08&layout=compact&theme=tokyonight$v=1)
 
 ---
 
