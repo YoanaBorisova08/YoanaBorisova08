@@ -58,5 +58,3 @@
 ---
 
 <p align="center">🧠 Thanks for stopping by! Feel free to follow or message me — I'm always happy to learn from others or share ideas.</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
