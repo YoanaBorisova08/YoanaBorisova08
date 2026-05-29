@@ -48,7 +48,8 @@
 |---|---|---|
 | [open-vote](https://open-vote.yoanaborisova.com) | Community voting and suggestions app | Laravel, PHP, MariaDB |
 | [idea](https://idea.yoanaborisova.com) | Idea tracking app | Laravel, PHP, MariaDB |
-| [guess-a-number](https://yoanaborisova.com/projects/guess-a-number) | Guess a number game | JS, HTML, CSS |
+| [guess-a-number](https://guess-a-number.yoanaborisova.com)) | Guess a number game | JS, HTML, CSS |
+| [mapty](https://mapty.yoanaborisova.com)) | Track your workouts | JS, Leaflet.js, HTML, CSS |
 
 ---
 
