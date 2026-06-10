@@ -47,6 +47,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [open-vote](https://open-vote.yoanaborisova.com) | Community voting and suggestions app | Laravel, PHP, MariaDB |
+| [usePopcorn](https://use-popcorn.yoanaborisova.com) | Track your favourite movies and rate them| React, OMDb API, Create react app |
 | [idea](https://idea.yoanaborisova.com) | Idea tracking app | Laravel, PHP, MariaDB |
 | [forkify](https://forkify.yoanaborisova.com) | Search Over 1,000,000 Recipes | JS, Forkify API, Parcel, HTML, CSS |
 | [guess-a-number](https://guess-a-number.yoanaborisova.com) | Guess a number game | JS, HTML, CSS |
